@@ -1,2 +1,2 @@
-Hello, World!
-This is built for Git.
+Hello, is World!
+This is is built for Git.
